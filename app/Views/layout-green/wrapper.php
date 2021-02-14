@@ -276,7 +276,7 @@
                 <div class="row">
                     <div class="footer-bottom">
                         <div class="copyright-txt">
-                            <p>&copy; 2017. Designer By <a href="#" title="Al-Amin(Web Designer)">LabArtisan</a></p>
+                            <p>&copy; 2017. Designer By <a href="#" title="Al-Amin(Web Designer)"><?php echo $web['nama_web'] ?></a></p>
                         </div>
                         <!-- .copyright-txt -->
                         <div class="social-box">

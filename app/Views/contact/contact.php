@@ -87,7 +87,7 @@
 
 <div id="map"></div>
 <!-- Map Api -->
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBqVIkdttPNjl5c5hKlc_Hk3bfXQQlf2Rc&amp;callback=initMap">
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=&amp;callback=initMap">
 
 
 </script>

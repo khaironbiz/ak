@@ -6,6 +6,7 @@ namespace App\Controllers;
 use App\Models\Berita_model;
 use App\Models\Kategori_model;
 use App\Models\Lokasi_model;
+use App\Models\Web_model;
 // End load model
 
 class About extends BaseController
@@ -20,11 +21,14 @@ class About extends BaseController
         $kategori       = $kategori_mod->listing();
         $lok_mod        = new Lokasi_model();
         $lokasi         = $lok_mod->listing();
+        $web_mod        = new Web_model();
+        $web            = $web_mod->listing();
         $data = array(
             'title'     => 'About',
             'kategori'  => $kategori,
             'lokasi'    => $lokasi,
             'berita'    => $berita,
+            'web'       => $web,
             'content'   => 'about/about'
         );
         return view('layout-green/wrapper', $data);
@@ -33,10 +37,16 @@ class About extends BaseController
     public function contact()
     {
         helper('text');
-        $model = new Berita_model();
-        $berita = $model->listing();
+        $model          = new Berita_model();
+        $berita         = $model->listing();
+        $kategori_mod   = new Kategori_model();
+        $kategori       = $kategori_mod->listing();
+        $lok_mod        = new Lokasi_model();
+        $lokasi         = $lok_mod->listing();
         $data = array(
             'title'     => 'Contact',
+            'kategori'  => $kategori,
+            'lokasi'    => $lokasi,
             'berita'    => $berita,
             'content'   => 'contact/contact'
         );
