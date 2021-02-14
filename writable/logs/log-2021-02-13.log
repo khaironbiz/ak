@@ -1,0 +1,907 @@
+CRITICAL - 2021-02-13 01:29:37 --> syntax error, unexpected 'saya' (T_STRING)
+#0 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('product/list_la...', Array, true)
+#1 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('product/list_la...')
+#2 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#4 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(35): view('layout-green/wr...', Array)
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->product()
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-13 02:14:27 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:14:40 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:15:31 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:15:44 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:16:33 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:16:41 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:17:09 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:17:40 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:20:08 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:23:30 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:27:23 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:32:04 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:36:01 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:36:04 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:38:28 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:39:33 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:40:33 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:43:08 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 02:43:57 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 03:11:58 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 03:12:11 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:28:56 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:30:20 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:32:45 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:33:42 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:35:48 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:41:09 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:49:48 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#1 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(50): view('layout-green/wr...', Array)
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail('kursus-statisti...')
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-02-13 16:50:46 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#1 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(50): view('layout-green/wr...', Array)
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail('kursus-statisti...')
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-02-13 16:50:47 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#1 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(50): view('layout-green/wr...', Array)
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail('kursus-statisti...')
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-02-13 16:51:41 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:51:44 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(251): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 251, Array)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(23): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->index()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-13 16:51:46 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:51:50 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(251): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 251, Array)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(35): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->product()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-13 16:53:15 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(251): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 251, Array)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(38): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->product()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-13 16:53:16 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(251): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 251, Array)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(38): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->product()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-13 16:53:17 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(251): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 251, Array)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(38): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->product()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-13 16:53:17 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(251): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 251, Array)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(38): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->product()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-13 16:53:59 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:54:12 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:54:28 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(251): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 251, Array)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Home.php(35): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Home->event()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-13 16:54:40 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:54:43 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:54:44 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:54:49 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 16:56:02 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:19:35 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:20:07 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:20:56 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:21:26 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:47:46 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:49:13 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:49:55 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:50:52 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:52:09 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:52:51 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:53:12 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:53:27 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:54:15 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:56:25 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:56:49 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:56:51 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:57:33 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:57:35 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:58:22 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 17:58:42 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 18:00:10 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(229): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 229, Array)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Product.php(45): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Product->detail('kursus-wordpres...')
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-13 18:11:47 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 18:38:47 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 19:20:06 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\User.php(35): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\User->add()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 19:27:18 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('member/add')
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('member/add')
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-02-13 19:29:58 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('member')
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('member')
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-02-13 19:30:45 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('member')
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('member')
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-02-13 19:30:46 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('member')
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('member')
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-02-13 19:30:47 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('member')
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('member')
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-02-13 19:31:44 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(229): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 229, Array)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(25): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->index()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-13 19:31:49 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(229): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 229, Array)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(25): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->index()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-13 19:31:57 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 19:32:05 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 19:32:20 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('member')
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('member')
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-02-13 19:32:45 --> Too few arguments to function App\Controllers\Landing::productdetail(), 0 passed in C:\xampp\htdocs\cifour\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->productdetail()
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-13 19:33:08 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('member/add')
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('member/add')
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-02-13 19:33:13 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('member')
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('member')
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-02-13 19:34:18 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('member')
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('member')
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-02-13 19:34:19 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('member')
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('member')
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-02-13 19:34:57 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('member')
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('member')
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-02-13 19:34:58 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('member')
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('member')
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-02-13 19:34:58 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('member')
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('member')
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-02-13 19:34:59 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('member')
+#1 C:\xampp\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('member')
+#2 C:\xampp\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-02-13 19:35:57 --> Invalid file: layout-focus/header.php
+#0 C:\xampp\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout-focus/he...')
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-focus/he...', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Controllers\Perawat.php(11): view('layout-focus/he...')
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Perawat->index()
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perawat))
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-02-13 19:38:06 --> Invalid file: layout-focus/header.php
+#0 C:\xampp\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout-focus/he...')
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-focus/he...', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Controllers\Perawat.php(11): view('layout-focus/he...')
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Perawat->index()
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perawat))
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-02-13 19:38:07 --> Invalid file: layout-focus/header.php
+#0 C:\xampp\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout-focus/he...')
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-focus/he...', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Controllers\Perawat.php(11): view('layout-focus/he...')
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Perawat->index()
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perawat))
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-02-13 19:38:07 --> Invalid file: layout-focus/header.php
+#0 C:\xampp\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout-focus/he...')
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-focus/he...', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Controllers\Perawat.php(11): view('layout-focus/he...')
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Perawat->index()
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perawat))
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-02-13 19:38:07 --> Invalid file: layout-focus/header.php
+#0 C:\xampp\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout-focus/he...')
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-focus/he...', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Controllers\Perawat.php(11): view('layout-focus/he...')
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Perawat->index()
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perawat))
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-02-13 19:38:08 --> Invalid file: layout-focus/header.php
+#0 C:\xampp\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout-focus/he...')
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-focus/he...', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Controllers\Perawat.php(11): view('layout-focus/he...')
+#3 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Perawat->index()
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perawat))
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-02-13 19:38:56 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Member.php(49): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->add()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 19:41:19 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Member.php(44): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->add()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 19:41:20 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Member.php(44): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->add()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 19:41:21 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Member.php(44): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->add()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 19:43:09 --> syntax error, unexpected end of file, expecting ';' or ','
+#0 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#1 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#2 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#4 C:\xampp\htdocs\cifour\app\Controllers\Member.php(41): view('layout-green/wr...', Array)
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->add()
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-13 19:43:10 --> syntax error, unexpected end of file, expecting ';' or ','
+#0 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#1 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#2 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#4 C:\xampp\htdocs\cifour\app\Controllers\Member.php(41): view('layout-green/wr...', Array)
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->add()
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-13 19:44:19 --> syntax error, unexpected end of file, expecting ';' or ','
+#0 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#1 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#2 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#4 C:\xampp\htdocs\cifour\app\Controllers\Member.php(41): view('layout-green/wr...', Array)
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->tambah()
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-13 19:44:20 --> syntax error, unexpected end of file, expecting ';' or ','
+#0 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#1 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#2 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#4 C:\xampp\htdocs\cifour\app\Controllers\Member.php(41): view('layout-green/wr...', Array)
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->tambah()
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-02-13 19:46:28 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Member.php(55): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->tambah()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 19:46:29 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Member.php(55): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->tambah()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 19:48:42 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Member.php(55): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->tambah()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 19:48:43 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Member.php(55): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->tambah()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 19:48:44 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Member.php(55): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->tambah()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 19:48:44 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Member.php(55): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->tambah()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 19:48:45 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Member.php(55): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->tambah()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 19:48:45 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Member.php(55): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->tambah()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 19:48:45 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Member.php(55): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->tambah()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 19:48:46 --> Call to undefined function form_open()
+#0 C:\xampp\htdocs\cifour\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('user/add', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(210): view('user/add')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Member.php(55): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Member->tambah()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Member))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-13 20:16:31 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(229): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 229, Array)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(25): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->index()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-13 23:01:08 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(229): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 229, Array)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(25): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->index()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-13 23:01:40 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(229): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 229, Array)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(25): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->index()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

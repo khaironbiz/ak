@@ -1,0 +1,30 @@
+CRITICAL - 2020-12-19 17:43:28 --> CodeIgniter\View\View::main(): Failed opening required 'head.php' (include_path='C:\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-19 17:43:31 --> CodeIgniter\View\View::main(): Failed opening required 'head.php' (include_path='C:\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-19 17:43:32 --> CodeIgniter\View\View::main(): Failed opening required 'head.php' (include_path='C:\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-19 17:43:32 --> CodeIgniter\View\View::main(): Failed opening required 'head.php' (include_path='C:\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-19 17:43:32 --> CodeIgniter\View\View::main(): Failed opening required 'head.php' (include_path='C:\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-19 17:43:33 --> CodeIgniter\View\View::main(): Failed opening required 'head.php' (include_path='C:\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-19 17:45:25 --> CodeIgniter\View\View::main(): Failed opening required 'head.php' (include_path='C:\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-19 17:46:48 --> CodeIgniter\View\View::main(): Failed opening required 'head.php' (include_path='C:\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-19 17:46:48 --> CodeIgniter\View\View::main(): Failed opening required 'head.php' (include_path='C:\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-19 17:46:49 --> CodeIgniter\View\View::main(): Failed opening required 'head.php' (include_path='C:\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

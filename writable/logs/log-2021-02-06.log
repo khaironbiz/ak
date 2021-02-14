@@ -1,0 +1,68 @@
+CRITICAL - 2021-02-06 20:56:00 --> Invalid file: about/about.php
+#0 C:\xampp\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about/about.php')
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('about/about', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(330): view('about/about')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(23): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->index()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-06 20:57:32 --> Invalid file: about/about.php
+#0 C:\xampp\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about/about.php')
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('about/about', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(330): view('about/about')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(23): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->index()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-06 20:57:43 --> Invalid file: about/about.php
+#0 C:\xampp\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about/about.php')
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('about/about', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(330): view('about/about')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(23): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->index()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-02-06 20:58:12 --> Argument 1 passed to view() must be of the type string, null given, called in C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php on line 330
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(330): view(NULL)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(23): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->index()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-06 20:58:13 --> Argument 1 passed to view() must be of the type string, null given, called in C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php on line 330
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(330): view(NULL)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(23): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->index()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-06 20:59:38 --> Invalid file: about/about.php
+#0 C:\xampp\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about/about.php')
+#1 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('about/about', Array, true)
+#2 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(330): view('about/about')
+#3 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#5 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(23): view('layout-green/wr...', Array)
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->index()
+#7 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#8 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
