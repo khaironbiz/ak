@@ -9,7 +9,7 @@ $user_login     = $model->detail($session->get('id_user'));
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="<?php echo base_url() ?>" target="_blank">
-    <img src="<?php echo base_url() ?>/assets/images/" class="img img-fluid logo-admin" style="max-height: 40px; width: auto;">
+    <img src="<?php echo base_url() ?>/assets/images/logo-acara-kesehatan.png" class="img img-fluid logo-admin" style="max-height: 40px; width: auto;">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>

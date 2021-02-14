@@ -905,3 +905,13 @@ CRITICAL - 2021-02-13 23:01:40 --> Invalid argument supplied for foreach()
 #6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
 #7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
 #8 {main}
+CRITICAL - 2021-02-13 23:44:36 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cifour\app\Views\layout-green\wrapper.php(229): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 229, Array)
+#1 C:\xampp\htdocs\cifour\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout-green/wr...', Array, true)
+#3 C:\xampp\htdocs\cifour\app\Controllers\Landing.php(25): view('layout-green/wr...', Array)
+#4 C:\xampp\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Landing->index()
+#5 C:\xampp\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+#6 C:\xampp\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

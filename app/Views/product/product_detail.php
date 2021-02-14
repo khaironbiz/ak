@@ -1,20 +1,13 @@
 <!-- Start Single Events Section -->
-
-
-
-
 <section class="bg-single-blog">
     <div class="container">
         <div class="row">
             <div class="single-blog">
                 <div class="row">
                     <div class="col-md-8">
-                        <?php
-
-                        ?>
                         <div class="blog-items">
                             <div class="blog-img">
-                                <a href="#"><img src="<?php echo base_url('landing/productdetail') ?>"><img src="<?php echo base_url() ?>/assets/upload/image/<?php echo $berita['gambar'] ?>" alt="blog-img-10" class="img-responsive" /></a>
+                                <a href="#"><img src="<?php echo base_url() ?>/assets/upload/image/<?php echo $berita['gambar'] ?>" alt="blog-img-10" class="img-responsive" /></a>
                             </div>
                             <!-- .blog-img -->
                             <div class="blog-content-box">

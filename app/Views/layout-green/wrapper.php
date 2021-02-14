@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?php echo $title ?></title>
-    <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url() ?>/assets/green/assets/images/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url() ?>/assets/images/logo-acara-kesehatan.png" />
     <!-- Plugin css -->
     <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>/assets/green/assets/css/font-awesome.min.css" media="all" />
     <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>/assets/green/assets/fonts/flaticon.css" media="all" />
@@ -58,39 +58,7 @@
 <body>
     <div id="fb-root"></div>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v9.0&appId=1080901662376658&autoLogAppEvents=1" nonce="W2nsFC6y"></script>
-    <div class="box-style">
-        <div class="color-btn">
-            <a href="#"><i class="fa fa-cog fa-spin" aria-hidden="true"></i></a>
-        </div>
-        <div class="box-style-inner">
-            <h3>Box Layout</h3>
-            <div class="box-element">
-                <div class="box-heading">
-                    <h5>HTML Layout</h5>
-                </div>
-                <div class="box-content">
-                    <ul class="box-customize">
-                        <li><a class="boxed-btn" href="#">Boxed</a></li>
-                        <li><a class="wide-btn" href="#">Wide</a></li>
-                        <li><a class="rtl-btn" href="#">Rtl</a></li>
-                        <li><a class="ltl-btn" href="#">Ltl</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="box-element">
-                <div class="box-heading">
-                    <h5>Backgroud Images</h5>
-                </div>
 
-            </div>
-            <div class="box-element">
-                <div class="box-heading">
-                    <h5>Backgroud Pattern</h5>
-                </div>
-
-            </div>
-        </div>
-    </div>
     <header class="header-style-2">
 
         <!-- .bg-header-top -->
@@ -100,7 +68,7 @@
             <div class="container">
                 <div class="row">
                     <div class="main-menu">
-                        <a class="show-res-logo" href="index.html"><img src="<?php echo base_url() ?>/assets/green/assets/images/home01/logo.png" alt="logo" class="img-responsive" /></a>
+
                         <nav class="navbar">
                             <!-- Brand and toggle get grouped for better mobile display -->
                             <div class="navbar-header">
@@ -110,14 +78,14 @@
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                 </button>
-                                <a class="navbar-brand" href="index.html"><img src="<?php echo base_url() ?>/assets/green/assets/images/home01/logo.png" alt="logo" class="img-responsive" /></a>
+                                <a class="navbar-brand" href="<?php echo base_url() ?>"><img src="<?php echo base_url() ?>/assets/images/logo-acara-kesehatan.png" width="70px" /></a>
 
                             </div>
                             <!-- Collect the nav links, forms, and other content for toggling -->
                             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                 <ul class="nav navbar-nav">
 
-                                    <li <?php if ($title == "About") { ?> class="active" <?php } ?>><a href="<?php echo base_url() ?>">About</a></li>
+                                    <li <?php if ($title == "About") { ?> class="active" <?php } ?>><a href="<?php echo base_url('about') ?>">About</a></li>
                                     <li <?php if ($title == "Product") { ?> class="active" <?php } ?>><a href="<?php echo base_url('product') ?>">Product</a></li>
                                     <li <?php if ($title == "Event") { ?> class="active" <?php } ?>><a href="<?php echo base_url('home/event') ?>">Event</a></li>
                                     <li <?php if ($title == "Shop") { ?> class="active" <?php } ?>><a href="<?php echo base_url('home/shop') ?>">Shop</a></li>
@@ -129,7 +97,20 @@
                                             <li><a href="service_single.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Event Creator</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="<?php echo base_url('login') ?>"><i class="fa fa-sign-in" aria-hidden="true"></i> Login</a></li>
+                                    <?php
+                                    $session = \Config\Services::session($config);
+                                    // Proteksi
+                                    if ($session->get('username') == "") {
+
+                                    ?>
+                                        <li><a href="<?php echo base_url('login') ?>"><i class="fa fa-sign-in" aria-hidden="true"></i> Login</a></li>
+                                    <?php
+                                    } else {
+                                    ?>
+                                        <li><a href="<?php echo base_url('login/logout') ?>"><i class="fa fa-sign-in" aria-hidden="true"></i> Logout</a></li>
+                                    <?php
+                                    }
+                                    ?>
                                 </ul>
                                 <div class="menu-right-option pull-right">
 
@@ -366,4 +347,5 @@
             document.getElementById("detik").innerHTML = waktu.getSeconds();
         }
     </script>
-    < /html>
+
+</html>

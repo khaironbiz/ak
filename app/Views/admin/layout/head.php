@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title><?php echo $title ?></title>
   <!-- icon -->
-  <link rel="shortcut icon" type="image/png" href="<?php echo base_url() ?>/assets/images/">
+  <link rel="shortcut icon" type="image/png" href="<?php echo base_url() ?>/assets/images/logo-acara-kesehatan.png">
   <!-- CKEDITOR CSS -->
   <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>/assets/ckeditor5/sample/styles.css">
   <!-- CSS BOOTSTRAP -->
