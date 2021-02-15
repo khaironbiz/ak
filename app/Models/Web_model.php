@@ -23,10 +23,10 @@ class Web_model extends Model
     }
 
     // Detail
-    public function detail($id_prov)
+    public function detail()
     {
         $this->select('*');
-        $this->where(array('id_rov'    => $id_prov));
+        $this->where(array('id'    => '1'));
         $query = $this->get();
         return $query->getRowArray();
     }

@@ -22,7 +22,7 @@ class About extends BaseController
         $lok_mod        = new Lokasi_model();
         $lokasi         = $lok_mod->listing();
         $web_mod        = new Web_model();
-        $web            = $web_mod->listing();
+        $web            = $web_mod->detail();
         $data = array(
             'title'     => 'About',
             'kategori'  => $kategori,
@@ -43,11 +43,14 @@ class About extends BaseController
         $kategori       = $kategori_mod->listing();
         $lok_mod        = new Lokasi_model();
         $lokasi         = $lok_mod->listing();
+        $web_mod        = new Web_model();
+        $web            = $web_mod->detail();
         $data = array(
             'title'     => 'Contact',
             'kategori'  => $kategori,
             'lokasi'    => $lokasi,
             'berita'    => $berita,
+            'web'       => $web,
             'content'   => 'contact/contact'
         );
         return view('layout-green/wrapper', $data);
